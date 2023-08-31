@@ -1,7 +1,7 @@
 import os
 
-folder1 = "/Users/nehan/Downloads"
-folder2 = "/Volumes/Backup/Misc/Transfer 2"
+folder1 = "location1"
+folder2 = "location2"
 
 files1 = os.listdir(folder1)
 files2 = os.listdir(folder2)
